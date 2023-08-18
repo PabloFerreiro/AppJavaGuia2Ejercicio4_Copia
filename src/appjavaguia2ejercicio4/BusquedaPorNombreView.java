@@ -11,6 +11,8 @@ import javax.swing.table.DefaultTableModel;
  *
  * @author Pablo
  */
+
+//comentario para diferenciar que esta es la rama 1
 public class BusquedaPorNombreView extends javax.swing.JInternalFrame {
     private DefaultTableModel modelo = new DefaultTableModel(){
     public boolean isCellEditable (int f, int c){
