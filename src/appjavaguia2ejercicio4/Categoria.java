@@ -2,7 +2,7 @@
 package appjavaguia2ejercicio4;
 
 public enum Categoria {
-    COMESTIBLE,
+    COMESTIBLE,//categorias
     LIMPIEZA,
     PERFUMERIA;
     
